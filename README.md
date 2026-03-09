@@ -75,6 +75,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Crwzin-br&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crwzin-br&layout=compact&theme=tokyonight"/>
+</div>
+
 ###
 
 <p align="center"></p>
